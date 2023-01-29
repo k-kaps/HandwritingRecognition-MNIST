@@ -3,11 +3,14 @@
 A Pytorch based tool for recognizing handwritten letters from A to Z.
 
 # Requirements
-Pytorch\\
-Python 3\\
-OpenCV\\
-Tkinter\\
-Numpy\\
+Pytorch
+
+Python 3
+
+OpenCV
+
+Numpy
+
 Pandas
 
 # Installation
