@@ -2,22 +2,22 @@
 
 A Pytorch based tool for recognizing handwritten letters from A to Z.
 
-# Requirements
+## Requirements
 *Pytorch
 *Python 3
 *OpenCV
 *Numpy
 *Pandas
 
-# Installation
+## Installation
 Clone the repository to your local machine
-git clone https://github.com/k-kaps/OCR.git
+git clone https://github.com/k-kaps/OCR-tool.git
 
-# Install required packages
+## Install required packages
 pip install -r requirements.txt 
 
-# Results
-The tool will output the 
+## Results
+The tool will output the image with the detected text in the GUI of the OCR tool.
 
-# Limitations
+## Limitations
 The tool is trained on a limited dataset and may not work well with all handwriting styles. Feel free to contribute to the project by improving the training data and model.
