@@ -1,6 +1,7 @@
-# OCR
+# OCR-tool
 
-A Pytorch based tool for recognizing handwritten letters from A to Z.
+A Pytorch based tool for recognizing handwritten letters from A to Z. Trained on the A to Z dataset made by Sachin Patel. 
+Link: https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
 ## Requirements
 * Pytorch
