@@ -10,11 +10,12 @@ A Pytorch based tool for recognizing handwritten letters from A to Z.
 * Pandas
 
 ## Installation
-Clone the repository to your local machine
-git clone https://github.com/k-kaps/OCR-tool.git
+Clone the repository to your local machine using:
+> git clone https://github.com/k-kaps/OCR-tool.git
 
 ## Install required packages
-pip install -r requirements.txt 
+Install the requirements using:
+> pip install -r requirements.txt 
 
 ## Results
 The tool will output the image with the detected text in the GUI of the OCR tool.
