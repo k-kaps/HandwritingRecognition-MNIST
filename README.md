@@ -7,8 +7,14 @@ Pytorch
 Python 3
 OpenCV
 Tkinter
+Numpy
+Pandas
 
-#Install required packages
+# Installation
+Clone the repository to your local machine
+git clone https://github.com/k-kaps/OCR.git
+
+# Install required packages
 pip install -r requirements.txt 
 
 # Results
