@@ -8,6 +8,9 @@ Python 3
 OpenCV
 Tkinter
 
+#Install required packages
+pip install -r requirements.txt 
+
 # Results
 The tool will output the recognized letters in the terminal.
 
