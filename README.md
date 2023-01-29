@@ -1,17 +1,13 @@
-# HandwritingRecognition-OCR
+# OCR
 
 A Pytorch based tool for recognizing handwritten letters from A to Z.
 
 # Requirements
-Pytorch
-
-Python 3
-
-OpenCV
-
-Numpy
-
-Pandas
+*Pytorch
+*Python 3
+*OpenCV
+*Numpy
+*Pandas
 
 # Installation
 Clone the repository to your local machine
